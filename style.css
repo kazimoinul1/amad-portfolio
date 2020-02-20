@@ -71,5 +71,6 @@ section{
 }
 footer p{
     text-align: center;
-    font-size: 12px;
+    font-size: 20px;
+    color: hotpink;
 }
